@@ -1,4 +1,4 @@
-file_path = "E:\Visual Studio Code\Python\Advent of Code - 2024\Day 1/Puzzle Input.txt"
+file_path = "E:\Visual Studio Code\Python\Advent of Code - 2024\Day 1\Input.txt"
 
 def distance_calculator(file_path):
     left_side = []
